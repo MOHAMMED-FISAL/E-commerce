@@ -39,7 +39,7 @@
           "configurations": {
             "production": {
               "outputPath": "docs",
-              "baseHref": "/ECommerceApp/",
+              "baseHref": "/ECommerceApp/browser/index.html",
               "budgets": [
                 {
                   "type": "initial",
